@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/Essential_Math_for_Data-Science_Journey/main/assets/fortress.jpg" width="100%" alt="Journey Banner" />
+  <img src="https://raw.githubusercontent.com/LONEFORTS/Essential_Math_for_Data-Science_Journey/main/assets/fortress.png" width="100%" alt="Journey Banner" />
 </p>
 
 <h1 align="center">
