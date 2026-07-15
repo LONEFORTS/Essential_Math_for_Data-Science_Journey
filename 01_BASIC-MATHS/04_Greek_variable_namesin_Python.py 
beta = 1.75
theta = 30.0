@@ -1,6 +1,6 @@
 #date-15-July-2026-wed
 #well...we can represent theta and beta as  variable names in python and give them value just as: 
 
-
+ 
 beta = 1.75
 theta = 30.0
