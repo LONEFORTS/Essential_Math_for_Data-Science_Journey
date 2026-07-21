@@ -1,0 +1,11 @@
+#helloWOrld12.17am 
+
+#date.22-july-2026-wednesday 
+ 
+
+from math import exp 
+p = 100 
+r = .20 
+t = 2.0 
+a = p * exp(r*t) 
+print(a)
