@@ -15,3 +15,12 @@ def my_function(x):
 
 step_at_2 = derivative_x(my_function,2,.00001)
 print(step_at_2) 
+
+
+""" 
+Now here is the Explanation which I wrote in notes today... 
+
+The purpose of this program is to estimate the dervivative slope of a functiona. 
+
+- a derivative tells us how quickly a function changes with respect to x. 
+"""
