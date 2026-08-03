@@ -2,7 +2,7 @@
 #HelloWorld 8.22PM
 #DATE: 31 JULY 2026 FRIDAY
 
-# 1. THE TOOLKIT: Go into Python's garage and grab the "SymPy" math toolkit.
+# This program is about getting derivatives 1. THE TOOLKIT: Go into Python's garage and grab the "SymPy" math toolkit.
 # We nickname it "sp" so we don't have to type the whole word "sympy" every time.
 import sympy as sp
 
